@@ -1,5 +1,5 @@
 
-## A complete guide for learning Android Development - [Check here](https://mindorks.com/android-app-development-online-course)
+## A complete guide for learning Android Development 
 
 ## Contents
 
